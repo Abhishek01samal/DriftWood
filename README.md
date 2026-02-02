@@ -23,3 +23,4 @@ This project is built with:
    ```sh
    npm run dev
    ```
+it is open source you can also use to make your own project like this

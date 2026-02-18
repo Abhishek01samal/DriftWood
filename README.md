@@ -1,6 +1,6 @@
 # Driftwood Studio
 
-Driftwood Studio website project.
+Driftwood Studio website project
 
 ## Project info
 

@@ -24,3 +24,5 @@ This project is built with:
    npm run dev
    ```
 it is open source you can also use to make your own project like this but dont take any creadit form the user instead seeall the codes and try to use it yourself it will make you a better coder .
+YOU CAN USE IT TO CREATE YOUR OWN MOOD BASED IMAGENATION FOR MAKE IT PRACTICE 
+

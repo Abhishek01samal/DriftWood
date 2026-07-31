@@ -13,7 +13,7 @@ This project is built with:
 - Tailwind CSS
 
 ## Getting Started
-
+Do not copy past the entire website make some changes and then update to make yourself 
 1. Clone the repository
 2. Install dependencies:
    ```sh

@@ -12,14 +12,8 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Getting Started
-Do not copy past the entire website make some changes and then update to make yourself 
-1. Clone the repository
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the development server:
+
+ Start the development server:
    ```sh
    npm run dev
    ```

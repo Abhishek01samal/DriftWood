@@ -78,11 +78,7 @@ Make sure you have the following installed:
 * npm
 * Git
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/Abhishek01samal/RusticTide.git
-```
 
 ### Navigate to the Project
 

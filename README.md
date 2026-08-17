@@ -230,8 +230,6 @@ RusticTide is an evolving project, so there are several areas that can be improv
 * Better testing coverage
 * Further UI/UX experimentation
 
----
-
 ## Author
 
 **Abhishek Samal**

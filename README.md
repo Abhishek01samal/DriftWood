@@ -72,14 +72,6 @@ The website attempts to translate these characteristics into a modern digital in
 
 ### Prerequisites
 
-Make sure you have the following installed:
-
-* Node.js
-* npm
-* Git
-
-
-
 ### Navigate to the Project
 
 ```bash

@@ -35,7 +35,6 @@ This idea became the inspiration behind the project's aesthetic:
 
 The website attempts to translate these characteristics into a modern digital interface.
 
----
 
 ## Features
 

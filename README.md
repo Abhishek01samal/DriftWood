@@ -168,6 +168,7 @@ I regularly return to older projects and improve them instead of simply abandoni
 That process allows me to:
 
 * Experiment with new technologies
+* Improve in end to end project 
 * Improve existing components
 * Refactor older code
 * Learn better development practices
